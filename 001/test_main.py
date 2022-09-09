@@ -1,4 +1,4 @@
-from problem001 import isMultipleOfThreeOrFive, readFile
+from main import isMultipleOfThreeOrFive, readFile
 
 def test():
   _input = readFile("test_input.txt")
